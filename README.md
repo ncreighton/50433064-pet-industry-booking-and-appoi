@@ -1,2 +1,28 @@
-# 50433064-pet-industry-booking-and-appoi
-What if add powerful functionality to WordPress without writing code took minutes instead of hours?  Fully documented admin settings panel — no code required for configuration. Regular security updates. Works with WordPress multisite.  ## What's Included  - Pet Industry Booking And Appointment — fully configured and ready to use - Clean admin setti
+# Pet Industry Booking and Appointment System WordPress Plugin
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | Yes | Yes |
+| Basic settings | Yes | Yes |
+| Standard widgets | Yes | Yes |
+| Advanced features | - | Yes |
+| Priority support | - | Yes |
+| Custom post types | - | Yes |
+| API access | - | Yes |
+| White-label option | - | Yes |
+| Multisite support | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/3cIcN5bHh7Eo4pqbzScZv3A)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/3cIcN5bHh7Eo4pqbzScZv3A)
+
